@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beisahhiep.hawkdesign.co.uk/sitemap.xml
